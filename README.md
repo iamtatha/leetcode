@@ -7,8 +7,9 @@
 
 ## Disclaimer
 1. The may page may require `30-40 seconds` to load for the first time. Please be patient!
-2. We do have a lot more data, but due to scarcity of funds and resources we are showing only for top companies.
-3. This is an open source project to help everyone who needs it.
+2. This site is `mobile responsive` too.
+3. We do have a lot more data, but due to scarcity of funds and resources we are showing only for top companies.
+4. This is an open source project to help everyone who needs it.
 
 
 
@@ -52,6 +53,9 @@ The dark mode is lit, isn't it?
 
 
 ### Support Us
+As we said, we have a scarcity of funds. Hence support us if you can.
 ![image](https://github.com/user-attachments/assets/d6ddddd7-78a9-4513-ab1a-660c8b8cca72)
 
 
+Credits: Thanks to [krishnadey30](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) for providing us with the data.
+Contact us for any need.
