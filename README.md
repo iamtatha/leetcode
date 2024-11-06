@@ -3,6 +3,8 @@
 ### A interactive webpage to find Leetcode Premium Company Tags 
 Go to the link [iamtatha.github.io/lcdb](iamtatha.github.io/lcdb)
 
+This page is created and hosted by Tathagata Dey ([LinkedIn](https://www.linkedin.com/in/tathagata-dey-580245172/))
+
 
 
 ![image](https://github.com/user-attachments/assets/e90fd7d7-4682-40e5-a968-9fc3af7ef6b4)
