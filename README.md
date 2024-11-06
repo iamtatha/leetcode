@@ -1,10 +1,11 @@
-# leetcode
-
-## A interactive webpage to find Leetcode Premium Company Tags 
+# Leetcode Premium Company Tags Webpage
 
 **Webpage Link:** Go to the link [iamtatha.github.io/lcdb](iamtatha.github.io/lcdb)
 
-**Credits:** This page is created and hosted by ```Tathagata Dey``` ([LinkedIn](https://www.linkedin.com/in/tathagata-dey-580245172/))
+**Credits:** This page is created and hosted by ```Tathagata Dey``` ([LinkedIn](https://www.linkedin.com/in/tathagata-dey-580245172/))'
+
+
+
 
 
 ### All Questions
@@ -45,6 +46,8 @@ The dark mode is lit, isn't it?
 ![image](https://github.com/user-attachments/assets/bf4f1ef6-1883-4edf-93c1-17fa35a6119d)
 
 
+
+### Support Us
 ![image](https://github.com/user-attachments/assets/d6ddddd7-78a9-4513-ab1a-660c8b8cca72)
 
 
