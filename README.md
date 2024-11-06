@@ -5,6 +5,10 @@
 **Credits:** This page is created and hosted by ```Tathagata Dey``` ([LinkedIn](https://www.linkedin.com/in/tathagata-dey-580245172/))'
 
 
+## Disclaimer
+1. The may page may require `30-40 seconds` to load for the first time. Please be patient!
+2. We do have a lot more data, but due to scarcity of funds and resources we are showing only for top companies.
+3. This is an open source project to help everyone who needs it.
 
 
 
