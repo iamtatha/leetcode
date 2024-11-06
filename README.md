@@ -1,6 +1,9 @@
 # leetcode
 
 ### A interactive webpage to find Leetcode Premium Company Tags 
+Go to the link `iamtatha.github.io/lcdb`
+
+
 
 ![image](https://github.com/user-attachments/assets/e90fd7d7-4682-40e5-a968-9fc3af7ef6b4)
 
