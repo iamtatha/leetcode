@@ -4,9 +4,10 @@
 
 **Webpage Link:** Go to the link [iamtatha.github.io/lcdb](iamtatha.github.io/lcdb)
 
-**Credits:** This page is created and hosted by **Tathagata Dey** ([LinkedIn](https://www.linkedin.com/in/tathagata-dey-580245172/))
+**Credits:** This page is created and hosted by ```**Tathagata Dey**``` ([LinkedIn](https://www.linkedin.com/in/tathagata-dey-580245172/))
 
 
+### All Questions
 
 ![image](https://github.com/user-attachments/assets/e90fd7d7-4682-40e5-a968-9fc3af7ef6b4)
 
